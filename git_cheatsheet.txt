@@ -9,5 +9,3 @@ git commit -m "A message describing what you have done to make this snapshot dif
 Commands related to checking status or log history
 git status
 git log
-
-test
